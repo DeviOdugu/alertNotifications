@@ -1,0 +1,83 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ffffff;
+  border: 2px solid #e5e5e5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+  padding: 10px;
+}
+
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+
+.a {
+  display: flex;
+}
+
+.b {
+  padding-right: 100px;
+}
+
+.c {
+  padding-right: 30px;
+}
+
+.d {
+  padding-right: 90px;
+}
+
+.success-icon {
+  color: #2dca73;
+  margin: 10px;
+}
+
+.success-heading {
+  font-family: 'Roboto';
+  color: #2dca73;
+  font-size: 15px;
+}
+
+.notification {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 10px;
+}
+
+.error-icon {
+  color: #ff0b37;
+  margin: 10px;
+}
+
+.error-heading {
+  font-family: 'Roboto';
+  color: #ff0b37;
+  font-size: 15px;
+}
+
+.warning-icon {
+  color: #ffb800;
+  margin: 10px;
+}
+
+.warning-heading {
+  font-family: 'Roboto';
+  color: #ffb800;
+  font-size: 15px;
+}
+
+.info-icon {
+  color: #0f81e0;
+  margin: 10px;
+}
+
+.info-heading {
+  font-family: 'Roboto';
+  color: #0f81e0;
+  font-size: 15px;
+}
